@@ -12,6 +12,7 @@ Given a 2D array, return the rowmeans.
 **Input Format**
 
 First line: two integers separated by spaces, the first indicates the rows of matrix X (n) and the second indicates the columns of X (p)
+
 Next n lines: values of the row in X
 
 **Output Format**
