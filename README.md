@@ -102,7 +102,7 @@ Ordinary least squares for linear regression.
 
 Ordinary least squares (OLS) is a method to estimate the parameters β in a simple linear regression, Xβ = y, where X is the feature matrix and y is the dependent variable (or target), by minimizing the sum of the squares of the differences between the observed dependent variable in the given dataset and those predicted by the linear function. Mathematically, the solution is given by the formula in the image, where the superscript T means the transpose of a matrix, and the superscript -1 means it is an inverse of a matrix.
 
-!(https://api.sololearn.com/DownloadFile?id=4874)
+![Ordinary Squares.](https://api.sololearn.com/DownloadFile?id=4874)
 
 **Task**
 
@@ -133,4 +133,3 @@ An numpy 1d array of values rounded to the second decimal.
 **Sample Output**
 
 [2. , 1.5]
-dtype: float64
